@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>a.jpg</file>
+        <file>b.jpg</file>
+        <file>c.jpg</file>
+        <file>d.jpg</file>
+        <file>e.jpg</file>
+        <file>f.jpg</file>
+        <file>g.jpg</file>
+        <file>h.jpg</file>
+        <file>i.jpg</file>
+        <file>amap.png</file>
+        <file>bmap.png</file>
+        <file>cmap.png</file>
+        <file>dmap.png</file>
+        <file>emap.png</file>
+        <file>fmap.png</file>
+        <file>gmap.png</file>
+        <file>hmap.png</file>
+        <file>imap.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>bgmusic.wav</file>
+    </qresource>
+</RCC>
